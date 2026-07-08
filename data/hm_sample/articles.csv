@@ -1,0 +1,571 @@
+article_id,product_code,prod_name,product_type_no,product_type_name,product_group_name,graphical_appearance_no,graphical_appearance_name,colour_group_code,colour_group_name,perceived_colour_value_id,perceived_colour_value_name,perceived_colour_master_id,perceived_colour_master_name,department_no,department_name,index_code,index_name,index_group_name,section_no,section_name,garment_group_no,garment_group_name,detail_desc
+108000009,1080000,Black Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Black sweater.
+108000017,1080000,Black Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Black sweater.
+108000019,1080000,Black Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Black trousers.
+108000026,1080000,Black Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Black trousers.
+108000029,1080000,Black Dress,265,Dress,Garment Full body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Black dress.
+108000036,1080000,Black Dress,265,Dress,Garment Full body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Black dress.
+108000045,1080000,Black Bag,60,Bag,Accessories,1010016,Solid,9,Black,4,Dark,5,Black,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Black bag.
+108000047,1080000,Black Bag,60,Bag,Accessories,1010016,Solid,9,Black,4,Dark,5,Black,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Black bag.
+108000053,1080000,Black Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Black,4,Dark,5,Black,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Black sneakers.
+108000060,1080000,Black Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Black,4,Dark,5,Black,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Black sneakers.
+108000067,1080000,Black Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Black,4,Dark,5,Black,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Black pyjama set.
+108000070,1080000,Black Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Black,4,Dark,5,Black,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Black pyjama set.
+108000079,1080000,White Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,White,4,Dark,5,White,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,White sweater.
+108000080,1080000,White Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,White,4,Dark,5,White,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,White sweater.
+108000087,1080000,White Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,White,4,Dark,5,White,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,White trousers.
+108000092,1080000,White Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,White,4,Dark,5,White,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,White trousers.
+108000095,1080000,White Dress,265,Dress,Garment Full body,1010016,Solid,9,White,4,Dark,5,White,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,White dress.
+108000101,1080001,White Dress,265,Dress,Garment Full body,1010016,Solid,9,White,4,Dark,5,White,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,White dress.
+108000107,1080001,White Bag,60,Bag,Accessories,1010016,Solid,9,White,4,Dark,5,White,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,White bag.
+108000109,1080001,White Bag,60,Bag,Accessories,1010016,Solid,9,White,4,Dark,5,White,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,White bag.
+108000113,1080001,White Sneakers,87,Sneakers,Shoes,1010016,Solid,9,White,4,Dark,5,White,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,White sneakers.
+108000115,1080001,White Sneakers,87,Sneakers,Shoes,1010016,Solid,9,White,4,Dark,5,White,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,White sneakers.
+108000121,1080001,White Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,White,4,Dark,5,White,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,White pyjama set.
+108000123,1080001,White Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,White,4,Dark,5,White,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,White pyjama set.
+108000131,1080001,Grey Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Grey sweater.
+108000140,1080001,Grey Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Grey sweater.
+108000141,1080001,Grey Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Grey trousers.
+108000147,1080001,Grey Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Grey trousers.
+108000148,1080001,Grey Dress,265,Dress,Garment Full body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Grey dress.
+108000156,1080001,Grey Dress,265,Dress,Garment Full body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Grey dress.
+108000162,1080001,Grey Bag,60,Bag,Accessories,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Grey bag.
+108000164,1080001,Grey Bag,60,Bag,Accessories,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Grey bag.
+108000165,1080001,Grey Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Grey sneakers.
+108000170,1080001,Grey Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Grey sneakers.
+108000171,1080001,Grey Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Grey pyjama set.
+108000177,1080001,Grey Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Grey pyjama set.
+108000186,1080001,Beige Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Beige sweater.
+108000190,1080001,Beige Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Beige sweater.
+108000192,1080001,Beige Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Beige trousers.
+108000198,1080001,Beige Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Beige trousers.
+108000202,1080002,Beige Dress,265,Dress,Garment Full body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Beige dress.
+108000208,1080002,Beige Dress,265,Dress,Garment Full body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Beige dress.
+108000212,1080002,Beige Bag,60,Bag,Accessories,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Beige bag.
+108000213,1080002,Beige Bag,60,Bag,Accessories,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Beige bag.
+108000220,1080002,Beige Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Beige sneakers.
+108000224,1080002,Beige Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Beige sneakers.
+108000227,1080002,Beige Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Beige pyjama set.
+108000234,1080002,Beige Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Beige pyjama set.
+108000237,1080002,Blue Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Blue sweater.
+108000239,1080002,Blue Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Blue sweater.
+108000242,1080002,Blue Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Blue trousers.
+108000244,1080002,Blue Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Blue trousers.
+108000248,1080002,Blue Dress,265,Dress,Garment Full body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Blue dress.
+108000255,1080002,Blue Dress,265,Dress,Garment Full body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Blue dress.
+108000258,1080002,Blue Bag,60,Bag,Accessories,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Blue bag.
+108000261,1080002,Blue Bag,60,Bag,Accessories,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Blue bag.
+108000263,1080002,Blue Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Blue sneakers.
+108000271,1080002,Blue Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Blue sneakers.
+108000280,1080002,Blue Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Blue pyjama set.
+108000282,1080002,Blue Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Blue pyjama set.
+108000290,1080002,Brown Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Brown sweater.
+108000294,1080002,Brown Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Brown sweater.
+108000297,1080002,Brown Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Brown trousers.
+108000299,1080002,Brown Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Brown trousers.
+108000308,1080003,Brown Dress,265,Dress,Garment Full body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Brown dress.
+108000315,1080003,Brown Dress,265,Dress,Garment Full body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Brown dress.
+108000322,1080003,Brown Bag,60,Bag,Accessories,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Brown bag.
+108000331,1080003,Brown Bag,60,Bag,Accessories,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Brown bag.
+108000339,1080003,Brown Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Brown sneakers.
+108000347,1080003,Brown Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Brown sneakers.
+108000348,1080003,Brown Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Brown pyjama set.
+108000354,1080003,Brown Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Brown pyjama set.
+108000355,1080003,Pink Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Pink sweater.
+108000362,1080003,Pink Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Pink trousers.
+108000371,1080003,Pink Dress,265,Dress,Garment Full body,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Pink dress.
+108000374,1080003,Pink Bag,60,Bag,Accessories,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Pink bag.
+108000379,1080003,Pink Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Pink sneakers.
+108000387,1080003,Pink Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Pink pyjama set.
+108000395,1080003,Red Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Red,4,Dark,5,Red,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Red sweater.
+108000402,1080004,Red Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Red,4,Dark,5,Red,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Red trousers.
+108000405,1080004,Red Dress,265,Dress,Garment Full body,1010016,Solid,9,Red,4,Dark,5,Red,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Red dress.
+108000413,1080004,Red Bag,60,Bag,Accessories,1010016,Solid,9,Red,4,Dark,5,Red,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Red bag.
+108000418,1080004,Red Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Red,4,Dark,5,Red,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Red sneakers.
+108000423,1080004,Red Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Red,4,Dark,5,Red,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Red pyjama set.
+108000428,1080004,Green Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Green,4,Dark,5,Green,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Green sweater.
+108000433,1080004,Green Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Green,4,Dark,5,Green,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Green trousers.
+108000435,1080004,Green Dress,265,Dress,Garment Full body,1010016,Solid,9,Green,4,Dark,5,Green,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Green dress.
+108000441,1080004,Green Bag,60,Bag,Accessories,1010016,Solid,9,Green,4,Dark,5,Green,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Green bag.
+108000443,1080004,Green Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Green,4,Dark,5,Green,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Green sneakers.
+108000451,1080004,Green Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Green,4,Dark,5,Green,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Green pyjama set.
+108000460,1080004,Yellow Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Yellow sweater.
+108000464,1080004,Yellow Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Yellow trousers.
+108000467,1080004,Yellow Dress,265,Dress,Garment Full body,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Yellow dress.
+108000474,1080004,Yellow Bag,60,Bag,Accessories,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Yellow bag.
+108000476,1080004,Yellow Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Yellow sneakers.
+108000477,1080004,Yellow Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Yellow pyjama set.
+108000480,1080004,Orange Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Orange sweater.
+108000488,1080004,Orange Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Orange trousers.
+108000496,1080004,Orange Dress,265,Dress,Garment Full body,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Orange dress.
+108000499,1080004,Orange Bag,60,Bag,Accessories,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Orange bag.
+108000507,1080005,Orange Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Orange sneakers.
+108000514,1080005,Orange Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Orange pyjama set.
+108000516,1080005,Purple Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Purple sweater.
+108000525,1080005,Purple Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Purple trousers.
+108000531,1080005,Purple Dress,265,Dress,Garment Full body,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Purple dress.
+108000532,1080005,Purple Bag,60,Bag,Accessories,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Purple bag.
+108000534,1080005,Purple Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Purple sneakers.
+108000539,1080005,Purple Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Purple pyjama set.
+108000546,1080005,Turquoise Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Turquoise sweater.
+108000555,1080005,Turquoise Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Turquoise trousers.
+108000561,1080005,Turquoise Dress,265,Dress,Garment Full body,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Turquoise dress.
+108000566,1080005,Turquoise Bag,60,Bag,Accessories,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Turquoise bag.
+108000570,1080005,Turquoise Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Turquoise sneakers.
+108000574,1080005,Turquoise Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Turquoise pyjama set.
+108000579,1080005,Black Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Black sweater.
+108000586,1080005,Black Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Black sweater.
+108000587,1080005,Black Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Black trousers.
+108000595,1080005,Black Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Black trousers.
+108000600,1080006,Black Dress,265,Dress,Garment Full body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Black dress.
+108000603,1080006,Black Dress,265,Dress,Garment Full body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Black dress.
+108000609,1080006,Black Bag,60,Bag,Accessories,1010016,Solid,9,Black,4,Dark,5,Black,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Black bag.
+108000610,1080006,Black Bag,60,Bag,Accessories,1010016,Solid,9,Black,4,Dark,5,Black,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Black bag.
+108000616,1080006,Black Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Black,4,Dark,5,Black,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Black sneakers.
+108000625,1080006,Black Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Black,4,Dark,5,Black,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Black sneakers.
+108000626,1080006,Black Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Black,4,Dark,5,Black,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Black pyjama set.
+108000631,1080006,Black Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Black,4,Dark,5,Black,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Black pyjama set.
+108000640,1080006,White Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,White,4,Dark,5,White,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,White sweater.
+108000647,1080006,White Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,White,4,Dark,5,White,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,White sweater.
+108000650,1080006,White Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,White,4,Dark,5,White,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,White trousers.
+108000654,1080006,White Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,White,4,Dark,5,White,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,White trousers.
+108000663,1080006,White Dress,265,Dress,Garment Full body,1010016,Solid,9,White,4,Dark,5,White,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,White dress.
+108000664,1080006,White Dress,265,Dress,Garment Full body,1010016,Solid,9,White,4,Dark,5,White,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,White dress.
+108000665,1080006,White Bag,60,Bag,Accessories,1010016,Solid,9,White,4,Dark,5,White,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,White bag.
+108000667,1080006,White Bag,60,Bag,Accessories,1010016,Solid,9,White,4,Dark,5,White,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,White bag.
+108000671,1080006,White Sneakers,87,Sneakers,Shoes,1010016,Solid,9,White,4,Dark,5,White,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,White sneakers.
+108000679,1080006,White Sneakers,87,Sneakers,Shoes,1010016,Solid,9,White,4,Dark,5,White,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,White sneakers.
+108000687,1080006,White Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,White,4,Dark,5,White,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,White pyjama set.
+108000688,1080006,White Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,White,4,Dark,5,White,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,White pyjama set.
+108000696,1080006,Grey Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Grey sweater.
+108000698,1080006,Grey Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Grey sweater.
+108000703,1080007,Grey Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Grey trousers.
+108000705,1080007,Grey Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Grey trousers.
+108000709,1080007,Grey Dress,265,Dress,Garment Full body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Grey dress.
+108000712,1080007,Grey Dress,265,Dress,Garment Full body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Grey dress.
+108000717,1080007,Grey Bag,60,Bag,Accessories,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Grey bag.
+108000718,1080007,Grey Bag,60,Bag,Accessories,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Grey bag.
+108000723,1080007,Grey Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Grey sneakers.
+108000732,1080007,Grey Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Grey sneakers.
+108000733,1080007,Grey Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Grey pyjama set.
+108000741,1080007,Grey Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Grey pyjama set.
+108000745,1080007,Beige Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Beige sweater.
+108000753,1080007,Beige Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Beige sweater.
+108000757,1080007,Beige Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Beige trousers.
+108000764,1080007,Beige Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Beige trousers.
+108000767,1080007,Beige Dress,265,Dress,Garment Full body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Beige dress.
+108000773,1080007,Beige Dress,265,Dress,Garment Full body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Beige dress.
+108000778,1080007,Beige Bag,60,Bag,Accessories,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Beige bag.
+108000779,1080007,Beige Bag,60,Bag,Accessories,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Beige bag.
+108000784,1080007,Beige Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Beige sneakers.
+108000786,1080007,Beige Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Beige sneakers.
+108000795,1080007,Beige Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Beige pyjama set.
+108000801,1080008,Beige Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Beige pyjama set.
+108000804,1080008,Blue Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Blue sweater.
+108000813,1080008,Blue Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Blue sweater.
+108000815,1080008,Blue Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Blue trousers.
+108000823,1080008,Blue Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Blue trousers.
+108000824,1080008,Blue Dress,265,Dress,Garment Full body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Blue dress.
+108000826,1080008,Blue Dress,265,Dress,Garment Full body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Blue dress.
+108000832,1080008,Blue Bag,60,Bag,Accessories,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Blue bag.
+108000841,1080008,Blue Bag,60,Bag,Accessories,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Blue bag.
+108000846,1080008,Blue Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Blue sneakers.
+108000848,1080008,Blue Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Blue sneakers.
+108000849,1080008,Blue Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Blue pyjama set.
+108000850,1080008,Blue Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Blue pyjama set.
+108000851,1080008,Brown Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Brown sweater.
+108000853,1080008,Brown Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Brown sweater.
+108000854,1080008,Brown Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Brown trousers.
+108000862,1080008,Brown Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Brown trousers.
+108000868,1080008,Brown Dress,265,Dress,Garment Full body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Brown dress.
+108000871,1080008,Brown Dress,265,Dress,Garment Full body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Brown dress.
+108000873,1080008,Brown Bag,60,Bag,Accessories,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Brown bag.
+108000880,1080008,Brown Bag,60,Bag,Accessories,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Brown bag.
+108000885,1080008,Brown Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Brown sneakers.
+108000889,1080008,Brown Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Brown sneakers.
+108000891,1080008,Brown Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Brown pyjama set.
+108000898,1080008,Brown Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Brown pyjama set.
+108000899,1080008,Pink Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Pink sweater.
+108000900,1080009,Pink Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Pink trousers.
+108000901,1080009,Pink Dress,265,Dress,Garment Full body,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Pink dress.
+108000905,1080009,Pink Bag,60,Bag,Accessories,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Pink bag.
+108000907,1080009,Pink Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Pink sneakers.
+108000908,1080009,Pink Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Pink pyjama set.
+108000909,1080009,Red Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Red,4,Dark,5,Red,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Red sweater.
+108000915,1080009,Red Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Red,4,Dark,5,Red,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Red trousers.
+108000916,1080009,Red Dress,265,Dress,Garment Full body,1010016,Solid,9,Red,4,Dark,5,Red,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Red dress.
+108000917,1080009,Red Bag,60,Bag,Accessories,1010016,Solid,9,Red,4,Dark,5,Red,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Red bag.
+108000920,1080009,Red Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Red,4,Dark,5,Red,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Red sneakers.
+108000924,1080009,Red Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Red,4,Dark,5,Red,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Red pyjama set.
+108000929,1080009,Green Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Green,4,Dark,5,Green,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Green sweater.
+108000932,1080009,Green Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Green,4,Dark,5,Green,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Green trousers.
+108000934,1080009,Green Dress,265,Dress,Garment Full body,1010016,Solid,9,Green,4,Dark,5,Green,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Green dress.
+108000939,1080009,Green Bag,60,Bag,Accessories,1010016,Solid,9,Green,4,Dark,5,Green,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Green bag.
+108000947,1080009,Green Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Green,4,Dark,5,Green,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Green sneakers.
+108000953,1080009,Green Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Green,4,Dark,5,Green,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Green pyjama set.
+108000957,1080009,Yellow Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Yellow sweater.
+108000966,1080009,Yellow Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Yellow trousers.
+108000971,1080009,Yellow Dress,265,Dress,Garment Full body,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Yellow dress.
+108000974,1080009,Yellow Bag,60,Bag,Accessories,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Yellow bag.
+108000978,1080009,Yellow Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Yellow sneakers.
+108000979,1080009,Yellow Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Yellow pyjama set.
+108000984,1080009,Orange Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Orange sweater.
+108000992,1080009,Orange Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Orange trousers.
+108000997,1080009,Orange Dress,265,Dress,Garment Full body,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Orange dress.
+108000999,1080009,Orange Bag,60,Bag,Accessories,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Orange bag.
+108001006,1080010,Orange Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Orange sneakers.
+108001009,1080010,Orange Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Orange pyjama set.
+108001014,1080010,Purple Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Purple sweater.
+108001022,1080010,Purple Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Purple trousers.
+108001023,1080010,Purple Dress,265,Dress,Garment Full body,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Purple dress.
+108001025,1080010,Purple Bag,60,Bag,Accessories,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Purple bag.
+108001031,1080010,Purple Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Purple sneakers.
+108001037,1080010,Purple Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Purple pyjama set.
+108001041,1080010,Turquoise Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Turquoise sweater.
+108001050,1080010,Turquoise Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Turquoise trousers.
+108001056,1080010,Turquoise Dress,265,Dress,Garment Full body,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Turquoise dress.
+108001062,1080010,Turquoise Bag,60,Bag,Accessories,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Turquoise bag.
+108001068,1080010,Turquoise Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Turquoise sneakers.
+108001072,1080010,Turquoise Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Turquoise pyjama set.
+108001074,1080010,Black Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Black sweater.
+108001075,1080010,Black Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Black sweater.
+108001078,1080010,Black Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Black trousers.
+108001084,1080010,Black Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Black trousers.
+108001085,1080010,Black Dress,265,Dress,Garment Full body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Black dress.
+108001088,1080010,Black Dress,265,Dress,Garment Full body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Black dress.
+108001094,1080010,Black Bag,60,Bag,Accessories,1010016,Solid,9,Black,4,Dark,5,Black,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Black bag.
+108001098,1080010,Black Bag,60,Bag,Accessories,1010016,Solid,9,Black,4,Dark,5,Black,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Black bag.
+108001101,1080011,Black Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Black,4,Dark,5,Black,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Black sneakers.
+108001107,1080011,Black Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Black,4,Dark,5,Black,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Black sneakers.
+108001115,1080011,Black Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Black,4,Dark,5,Black,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Black pyjama set.
+108001122,1080011,Black Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Black,4,Dark,5,Black,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Black pyjama set.
+108001130,1080011,White Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,White,4,Dark,5,White,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,White sweater.
+108001133,1080011,White Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,White,4,Dark,5,White,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,White sweater.
+108001142,1080011,White Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,White,4,Dark,5,White,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,White trousers.
+108001150,1080011,White Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,White,4,Dark,5,White,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,White trousers.
+108001153,1080011,White Dress,265,Dress,Garment Full body,1010016,Solid,9,White,4,Dark,5,White,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,White dress.
+108001159,1080011,White Dress,265,Dress,Garment Full body,1010016,Solid,9,White,4,Dark,5,White,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,White dress.
+108001160,1080011,White Bag,60,Bag,Accessories,1010016,Solid,9,White,4,Dark,5,White,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,White bag.
+108001166,1080011,White Bag,60,Bag,Accessories,1010016,Solid,9,White,4,Dark,5,White,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,White bag.
+108001171,1080011,White Sneakers,87,Sneakers,Shoes,1010016,Solid,9,White,4,Dark,5,White,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,White sneakers.
+108001180,1080011,White Sneakers,87,Sneakers,Shoes,1010016,Solid,9,White,4,Dark,5,White,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,White sneakers.
+108001189,1080011,White Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,White,4,Dark,5,White,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,White pyjama set.
+108001196,1080011,White Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,White,4,Dark,5,White,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,White pyjama set.
+108001205,1080012,Grey Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Grey sweater.
+108001209,1080012,Grey Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Grey sweater.
+108001212,1080012,Grey Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Grey trousers.
+108001213,1080012,Grey Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Grey trousers.
+108001217,1080012,Grey Dress,265,Dress,Garment Full body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Grey dress.
+108001220,1080012,Grey Dress,265,Dress,Garment Full body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Grey dress.
+108001223,1080012,Grey Bag,60,Bag,Accessories,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Grey bag.
+108001231,1080012,Grey Bag,60,Bag,Accessories,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Grey bag.
+108001237,1080012,Grey Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Grey sneakers.
+108001244,1080012,Grey Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Grey sneakers.
+108001251,1080012,Grey Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Grey pyjama set.
+108001259,1080012,Grey Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Grey pyjama set.
+108001268,1080012,Beige Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Beige sweater.
+108001276,1080012,Beige Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Beige sweater.
+108001283,1080012,Beige Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Beige trousers.
+108001289,1080012,Beige Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Beige trousers.
+108001297,1080012,Beige Dress,265,Dress,Garment Full body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Beige dress.
+108001305,1080013,Beige Dress,265,Dress,Garment Full body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Beige dress.
+108001306,1080013,Beige Bag,60,Bag,Accessories,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Beige bag.
+108001315,1080013,Beige Bag,60,Bag,Accessories,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Beige bag.
+108001321,1080013,Beige Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Beige sneakers.
+108001324,1080013,Beige Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Beige sneakers.
+108001330,1080013,Beige Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Beige pyjama set.
+108001338,1080013,Beige Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Beige pyjama set.
+108001343,1080013,Blue Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Blue sweater.
+108001348,1080013,Blue Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Blue sweater.
+108001349,1080013,Blue Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Blue trousers.
+108001356,1080013,Blue Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Blue trousers.
+108001363,1080013,Blue Dress,265,Dress,Garment Full body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Blue dress.
+108001369,1080013,Blue Dress,265,Dress,Garment Full body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Blue dress.
+108001376,1080013,Blue Bag,60,Bag,Accessories,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Blue bag.
+108001383,1080013,Blue Bag,60,Bag,Accessories,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Blue bag.
+108001392,1080013,Blue Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Blue sneakers.
+108001396,1080013,Blue Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Blue sneakers.
+108001405,1080014,Blue Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Blue pyjama set.
+108001414,1080014,Blue Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Blue pyjama set.
+108001423,1080014,Brown Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Brown sweater.
+108001424,1080014,Brown Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Brown sweater.
+108001429,1080014,Brown Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Brown trousers.
+108001436,1080014,Brown Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Brown trousers.
+108001444,1080014,Brown Dress,265,Dress,Garment Full body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Brown dress.
+108001448,1080014,Brown Dress,265,Dress,Garment Full body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Brown dress.
+108001450,1080014,Brown Bag,60,Bag,Accessories,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Brown bag.
+108001458,1080014,Brown Bag,60,Bag,Accessories,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Brown bag.
+108001463,1080014,Brown Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Brown sneakers.
+108001471,1080014,Brown Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Brown sneakers.
+108001476,1080014,Brown Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Brown pyjama set.
+108001485,1080014,Brown Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Brown pyjama set.
+108001491,1080014,Pink Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Pink sweater.
+108001497,1080014,Pink Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Pink trousers.
+108001501,1080015,Pink Dress,265,Dress,Garment Full body,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Pink dress.
+108001506,1080015,Pink Bag,60,Bag,Accessories,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Pink bag.
+108001509,1080015,Pink Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Pink sneakers.
+108001510,1080015,Pink Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Pink pyjama set.
+108001514,1080015,Red Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Red,4,Dark,5,Red,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Red sweater.
+108001517,1080015,Red Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Red,4,Dark,5,Red,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Red trousers.
+108001519,1080015,Red Dress,265,Dress,Garment Full body,1010016,Solid,9,Red,4,Dark,5,Red,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Red dress.
+108001521,1080015,Red Bag,60,Bag,Accessories,1010016,Solid,9,Red,4,Dark,5,Red,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Red bag.
+108001523,1080015,Red Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Red,4,Dark,5,Red,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Red sneakers.
+108001525,1080015,Red Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Red,4,Dark,5,Red,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Red pyjama set.
+108001529,1080015,Green Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Green,4,Dark,5,Green,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Green sweater.
+108001536,1080015,Green Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Green,4,Dark,5,Green,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Green trousers.
+108001537,1080015,Green Dress,265,Dress,Garment Full body,1010016,Solid,9,Green,4,Dark,5,Green,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Green dress.
+108001538,1080015,Green Bag,60,Bag,Accessories,1010016,Solid,9,Green,4,Dark,5,Green,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Green bag.
+108001540,1080015,Green Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Green,4,Dark,5,Green,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Green sneakers.
+108001545,1080015,Green Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Green,4,Dark,5,Green,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Green pyjama set.
+108001552,1080015,Yellow Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Yellow sweater.
+108001561,1080015,Yellow Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Yellow trousers.
+108001562,1080015,Yellow Dress,265,Dress,Garment Full body,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Yellow dress.
+108001571,1080015,Yellow Bag,60,Bag,Accessories,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Yellow bag.
+108001574,1080015,Yellow Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Yellow sneakers.
+108001576,1080015,Yellow Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Yellow pyjama set.
+108001579,1080015,Orange Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Orange sweater.
+108001584,1080015,Orange Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Orange trousers.
+108001586,1080015,Orange Dress,265,Dress,Garment Full body,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Orange dress.
+108001590,1080015,Orange Bag,60,Bag,Accessories,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Orange bag.
+108001595,1080015,Orange Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Orange sneakers.
+108001596,1080015,Orange Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Orange pyjama set.
+108001597,1080015,Purple Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Purple sweater.
+108001599,1080015,Purple Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Purple trousers.
+108001603,1080016,Purple Dress,265,Dress,Garment Full body,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Purple dress.
+108001609,1080016,Purple Bag,60,Bag,Accessories,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Purple bag.
+108001614,1080016,Purple Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Purple sneakers.
+108001615,1080016,Purple Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Purple pyjama set.
+108001620,1080016,Turquoise Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Turquoise sweater.
+108001623,1080016,Turquoise Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Turquoise trousers.
+108001627,1080016,Turquoise Dress,265,Dress,Garment Full body,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Turquoise dress.
+108001633,1080016,Turquoise Bag,60,Bag,Accessories,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Turquoise bag.
+108001638,1080016,Turquoise Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Turquoise sneakers.
+108001647,1080016,Turquoise Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Turquoise pyjama set.
+108001654,1080016,Black Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Black sweater.
+108001655,1080016,Black Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Black sweater.
+108001657,1080016,Black Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Black trousers.
+108001663,1080016,Black Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Black trousers.
+108001671,1080016,Black Dress,265,Dress,Garment Full body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Black dress.
+108001676,1080016,Black Dress,265,Dress,Garment Full body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Black dress.
+108001682,1080016,Black Bag,60,Bag,Accessories,1010016,Solid,9,Black,4,Dark,5,Black,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Black bag.
+108001683,1080016,Black Bag,60,Bag,Accessories,1010016,Solid,9,Black,4,Dark,5,Black,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Black bag.
+108001689,1080016,Black Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Black,4,Dark,5,Black,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Black sneakers.
+108001692,1080016,Black Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Black,4,Dark,5,Black,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Black sneakers.
+108001697,1080016,Black Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Black,4,Dark,5,Black,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Black pyjama set.
+108001705,1080017,Black Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Black,4,Dark,5,Black,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Black pyjama set.
+108001708,1080017,White Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,White,4,Dark,5,White,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,White sweater.
+108001710,1080017,White Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,White,4,Dark,5,White,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,White sweater.
+108001712,1080017,White Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,White,4,Dark,5,White,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,White trousers.
+108001714,1080017,White Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,White,4,Dark,5,White,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,White trousers.
+108001722,1080017,White Dress,265,Dress,Garment Full body,1010016,Solid,9,White,4,Dark,5,White,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,White dress.
+108001727,1080017,White Dress,265,Dress,Garment Full body,1010016,Solid,9,White,4,Dark,5,White,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,White dress.
+108001736,1080017,White Bag,60,Bag,Accessories,1010016,Solid,9,White,4,Dark,5,White,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,White bag.
+108001742,1080017,White Bag,60,Bag,Accessories,1010016,Solid,9,White,4,Dark,5,White,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,White bag.
+108001751,1080017,White Sneakers,87,Sneakers,Shoes,1010016,Solid,9,White,4,Dark,5,White,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,White sneakers.
+108001752,1080017,White Sneakers,87,Sneakers,Shoes,1010016,Solid,9,White,4,Dark,5,White,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,White sneakers.
+108001758,1080017,White Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,White,4,Dark,5,White,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,White pyjama set.
+108001765,1080017,White Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,White,4,Dark,5,White,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,White pyjama set.
+108001767,1080017,Grey Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Grey sweater.
+108001776,1080017,Grey Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Grey sweater.
+108001779,1080017,Grey Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Grey trousers.
+108001781,1080017,Grey Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Grey trousers.
+108001783,1080017,Grey Dress,265,Dress,Garment Full body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Grey dress.
+108001792,1080017,Grey Dress,265,Dress,Garment Full body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Grey dress.
+108001796,1080017,Grey Bag,60,Bag,Accessories,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Grey bag.
+108001800,1080018,Grey Bag,60,Bag,Accessories,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Grey bag.
+108001809,1080018,Grey Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Grey sneakers.
+108001816,1080018,Grey Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Grey sneakers.
+108001824,1080018,Grey Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Grey pyjama set.
+108001825,1080018,Grey Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Grey pyjama set.
+108001832,1080018,Beige Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Beige sweater.
+108001838,1080018,Beige Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Beige sweater.
+108001842,1080018,Beige Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Beige trousers.
+108001850,1080018,Beige Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Beige trousers.
+108001851,1080018,Beige Dress,265,Dress,Garment Full body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Beige dress.
+108001855,1080018,Beige Dress,265,Dress,Garment Full body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Beige dress.
+108001857,1080018,Beige Bag,60,Bag,Accessories,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Beige bag.
+108001860,1080018,Beige Bag,60,Bag,Accessories,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Beige bag.
+108001863,1080018,Beige Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Beige sneakers.
+108001865,1080018,Beige Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Beige sneakers.
+108001870,1080018,Beige Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Beige pyjama set.
+108001876,1080018,Beige Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Beige pyjama set.
+108001881,1080018,Blue Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Blue sweater.
+108001887,1080018,Blue Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Blue sweater.
+108001894,1080018,Blue Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Blue trousers.
+108001900,1080019,Blue Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Blue trousers.
+108001907,1080019,Blue Dress,265,Dress,Garment Full body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Blue dress.
+108001910,1080019,Blue Dress,265,Dress,Garment Full body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Blue dress.
+108001914,1080019,Blue Bag,60,Bag,Accessories,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Blue bag.
+108001921,1080019,Blue Bag,60,Bag,Accessories,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Blue bag.
+108001922,1080019,Blue Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Blue sneakers.
+108001923,1080019,Blue Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Blue sneakers.
+108001932,1080019,Blue Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Blue pyjama set.
+108001936,1080019,Blue Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Blue pyjama set.
+108001944,1080019,Brown Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Brown sweater.
+108001947,1080019,Brown Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Brown sweater.
+108001948,1080019,Brown Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Brown trousers.
+108001954,1080019,Brown Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Brown trousers.
+108001961,1080019,Brown Dress,265,Dress,Garment Full body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Brown dress.
+108001962,1080019,Brown Dress,265,Dress,Garment Full body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Brown dress.
+108001970,1080019,Brown Bag,60,Bag,Accessories,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Brown bag.
+108001974,1080019,Brown Bag,60,Bag,Accessories,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Brown bag.
+108001976,1080019,Brown Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Brown sneakers.
+108001984,1080019,Brown Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Brown sneakers.
+108001993,1080019,Brown Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Brown pyjama set.
+108001995,1080019,Brown Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Brown pyjama set.
+108002001,1080020,Pink Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Pink sweater.
+108002003,1080020,Pink Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Pink trousers.
+108002006,1080020,Pink Dress,265,Dress,Garment Full body,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Pink dress.
+108002013,1080020,Pink Bag,60,Bag,Accessories,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Pink bag.
+108002020,1080020,Pink Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Pink sneakers.
+108002021,1080020,Pink Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Pink pyjama set.
+108002022,1080020,Red Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Red,4,Dark,5,Red,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Red sweater.
+108002028,1080020,Red Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Red,4,Dark,5,Red,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Red trousers.
+108002036,1080020,Red Dress,265,Dress,Garment Full body,1010016,Solid,9,Red,4,Dark,5,Red,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Red dress.
+108002041,1080020,Red Bag,60,Bag,Accessories,1010016,Solid,9,Red,4,Dark,5,Red,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Red bag.
+108002046,1080020,Red Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Red,4,Dark,5,Red,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Red sneakers.
+108002053,1080020,Red Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Red,4,Dark,5,Red,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Red pyjama set.
+108002060,1080020,Green Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Green,4,Dark,5,Green,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Green sweater.
+108002062,1080020,Green Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Green,4,Dark,5,Green,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Green trousers.
+108002064,1080020,Green Dress,265,Dress,Garment Full body,1010016,Solid,9,Green,4,Dark,5,Green,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Green dress.
+108002069,1080020,Green Bag,60,Bag,Accessories,1010016,Solid,9,Green,4,Dark,5,Green,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Green bag.
+108002076,1080020,Green Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Green,4,Dark,5,Green,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Green sneakers.
+108002077,1080020,Green Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Green,4,Dark,5,Green,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Green pyjama set.
+108002083,1080020,Yellow Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Yellow sweater.
+108002085,1080020,Yellow Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Yellow trousers.
+108002092,1080020,Yellow Dress,265,Dress,Garment Full body,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Yellow dress.
+108002097,1080020,Yellow Bag,60,Bag,Accessories,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Yellow bag.
+108002106,1080021,Yellow Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Yellow sneakers.
+108002107,1080021,Yellow Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Yellow pyjama set.
+108002109,1080021,Orange Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Orange sweater.
+108002113,1080021,Orange Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Orange trousers.
+108002120,1080021,Orange Dress,265,Dress,Garment Full body,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Orange dress.
+108002126,1080021,Orange Bag,60,Bag,Accessories,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Orange bag.
+108002132,1080021,Orange Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Orange sneakers.
+108002133,1080021,Orange Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Orange pyjama set.
+108002141,1080021,Purple Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Purple sweater.
+108002142,1080021,Purple Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Purple trousers.
+108002148,1080021,Purple Dress,265,Dress,Garment Full body,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Purple dress.
+108002156,1080021,Purple Bag,60,Bag,Accessories,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Purple bag.
+108002163,1080021,Purple Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Purple sneakers.
+108002164,1080021,Purple Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Purple pyjama set.
+108002169,1080021,Turquoise Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Turquoise sweater.
+108002170,1080021,Turquoise Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Turquoise trousers.
+108002171,1080021,Turquoise Dress,265,Dress,Garment Full body,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Turquoise dress.
+108002180,1080021,Turquoise Bag,60,Bag,Accessories,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Turquoise bag.
+108002184,1080021,Turquoise Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Turquoise sneakers.
+108002192,1080021,Turquoise Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Turquoise pyjama set.
+108002193,1080021,Black Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Black sweater.
+108002202,1080022,Black Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Black sweater.
+108002211,1080022,Black Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Black trousers.
+108002214,1080022,Black Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Black trousers.
+108002222,1080022,Black Dress,265,Dress,Garment Full body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Black dress.
+108002225,1080022,Black Dress,265,Dress,Garment Full body,1010016,Solid,9,Black,4,Dark,5,Black,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Black dress.
+108002227,1080022,Black Bag,60,Bag,Accessories,1010016,Solid,9,Black,4,Dark,5,Black,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Black bag.
+108002234,1080022,Black Bag,60,Bag,Accessories,1010016,Solid,9,Black,4,Dark,5,Black,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Black bag.
+108002237,1080022,Black Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Black,4,Dark,5,Black,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Black sneakers.
+108002245,1080022,Black Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Black,4,Dark,5,Black,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Black sneakers.
+108002246,1080022,Black Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Black,4,Dark,5,Black,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Black pyjama set.
+108002254,1080022,Black Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Black,4,Dark,5,Black,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Black pyjama set.
+108002260,1080022,White Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,White,4,Dark,5,White,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,White sweater.
+108002269,1080022,White Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,White,4,Dark,5,White,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,White sweater.
+108002273,1080022,White Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,White,4,Dark,5,White,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,White trousers.
+108002278,1080022,White Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,White,4,Dark,5,White,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,White trousers.
+108002279,1080022,White Dress,265,Dress,Garment Full body,1010016,Solid,9,White,4,Dark,5,White,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,White dress.
+108002284,1080022,White Dress,265,Dress,Garment Full body,1010016,Solid,9,White,4,Dark,5,White,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,White dress.
+108002291,1080022,White Bag,60,Bag,Accessories,1010016,Solid,9,White,4,Dark,5,White,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,White bag.
+108002296,1080022,White Bag,60,Bag,Accessories,1010016,Solid,9,White,4,Dark,5,White,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,White bag.
+108002303,1080023,White Sneakers,87,Sneakers,Shoes,1010016,Solid,9,White,4,Dark,5,White,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,White sneakers.
+108002309,1080023,White Sneakers,87,Sneakers,Shoes,1010016,Solid,9,White,4,Dark,5,White,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,White sneakers.
+108002310,1080023,White Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,White,4,Dark,5,White,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,White pyjama set.
+108002312,1080023,White Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,White,4,Dark,5,White,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,White pyjama set.
+108002318,1080023,Grey Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Grey sweater.
+108002322,1080023,Grey Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Grey sweater.
+108002326,1080023,Grey Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Grey trousers.
+108002335,1080023,Grey Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Grey trousers.
+108002336,1080023,Grey Dress,265,Dress,Garment Full body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Grey dress.
+108002337,1080023,Grey Dress,265,Dress,Garment Full body,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Grey dress.
+108002343,1080023,Grey Bag,60,Bag,Accessories,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Grey bag.
+108002347,1080023,Grey Bag,60,Bag,Accessories,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Grey bag.
+108002353,1080023,Grey Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Grey sneakers.
+108002357,1080023,Grey Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Grey sneakers.
+108002361,1080023,Grey Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Grey pyjama set.
+108002367,1080023,Grey Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Grey,4,Dark,5,Grey,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Grey pyjama set.
+108002370,1080023,Beige Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Beige sweater.
+108002373,1080023,Beige Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Beige sweater.
+108002378,1080023,Beige Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Beige trousers.
+108002383,1080023,Beige Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Beige trousers.
+108002392,1080023,Beige Dress,265,Dress,Garment Full body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Beige dress.
+108002393,1080023,Beige Dress,265,Dress,Garment Full body,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Beige dress.
+108002398,1080023,Beige Bag,60,Bag,Accessories,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Beige bag.
+108002400,1080024,Beige Bag,60,Bag,Accessories,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Beige bag.
+108002404,1080024,Beige Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Beige sneakers.
+108002412,1080024,Beige Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Beige sneakers.
+108002414,1080024,Beige Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Beige pyjama set.
+108002422,1080024,Beige Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Beige,4,Dark,5,Beige,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Beige pyjama set.
+108002430,1080024,Blue Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Blue sweater.
+108002434,1080024,Blue Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Blue sweater.
+108002440,1080024,Blue Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Blue trousers.
+108002444,1080024,Blue Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Blue trousers.
+108002451,1080024,Blue Dress,265,Dress,Garment Full body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Blue dress.
+108002460,1080024,Blue Dress,265,Dress,Garment Full body,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Blue dress.
+108002468,1080024,Blue Bag,60,Bag,Accessories,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Blue bag.
+108002470,1080024,Blue Bag,60,Bag,Accessories,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Blue bag.
+108002474,1080024,Blue Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Blue sneakers.
+108002478,1080024,Blue Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Blue sneakers.
+108002480,1080024,Blue Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Blue pyjama set.
+108002484,1080024,Blue Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Blue,4,Dark,5,Blue,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Blue pyjama set.
+108002486,1080024,Brown Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Brown sweater.
+108002495,1080024,Brown Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Brown sweater.
+108002496,1080024,Brown Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Brown trousers.
+108002498,1080024,Brown Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Brown trousers.
+108002501,1080025,Brown Dress,265,Dress,Garment Full body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Brown dress.
+108002505,1080025,Brown Dress,265,Dress,Garment Full body,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Brown dress.
+108002510,1080025,Brown Bag,60,Bag,Accessories,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Brown bag.
+108002513,1080025,Brown Bag,60,Bag,Accessories,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Brown bag.
+108002521,1080025,Brown Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Brown sneakers.
+108002525,1080025,Brown Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Brown sneakers.
+108002529,1080025,Brown Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Brown pyjama set.
+108002538,1080025,Brown Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Brown,4,Dark,5,Brown,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Brown pyjama set.
+108002539,1080025,Pink Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Pink sweater.
+108002545,1080025,Pink Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Pink trousers.
+108002554,1080025,Pink Dress,265,Dress,Garment Full body,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Pink dress.
+108002560,1080025,Pink Bag,60,Bag,Accessories,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Pink bag.
+108002568,1080025,Pink Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Pink sneakers.
+108002573,1080025,Pink Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Pink,4,Dark,5,Pink,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Pink pyjama set.
+108002581,1080025,Red Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Red,4,Dark,5,Red,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Red sweater.
+108002582,1080025,Red Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Red,4,Dark,5,Red,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Red trousers.
+108002591,1080025,Red Dress,265,Dress,Garment Full body,1010016,Solid,9,Red,4,Dark,5,Red,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Red dress.
+108002598,1080025,Red Bag,60,Bag,Accessories,1010016,Solid,9,Red,4,Dark,5,Red,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Red bag.
+108002605,1080026,Red Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Red,4,Dark,5,Red,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Red sneakers.
+108002609,1080026,Red Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Red,4,Dark,5,Red,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Red pyjama set.
+108002615,1080026,Green Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Green,4,Dark,5,Green,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Green sweater.
+108002623,1080026,Green Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Green,4,Dark,5,Green,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Green trousers.
+108002626,1080026,Green Dress,265,Dress,Garment Full body,1010016,Solid,9,Green,4,Dark,5,Green,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Green dress.
+108002627,1080026,Green Bag,60,Bag,Accessories,1010016,Solid,9,Green,4,Dark,5,Green,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Green bag.
+108002633,1080026,Green Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Green,4,Dark,5,Green,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Green sneakers.
+108002641,1080026,Green Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Green,4,Dark,5,Green,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Green pyjama set.
+108002645,1080026,Yellow Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Yellow sweater.
+108002653,1080026,Yellow Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Yellow trousers.
+108002660,1080026,Yellow Dress,265,Dress,Garment Full body,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Yellow dress.
+108002663,1080026,Yellow Bag,60,Bag,Accessories,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Yellow bag.
+108002664,1080026,Yellow Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Yellow sneakers.
+108002673,1080026,Yellow Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Yellow,4,Dark,5,Yellow,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Yellow pyjama set.
+108002678,1080026,Orange Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Orange sweater.
+108002682,1080026,Orange Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Orange trousers.
+108002686,1080026,Orange Dress,265,Dress,Garment Full body,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Orange dress.
+108002693,1080026,Orange Bag,60,Bag,Accessories,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Orange bag.
+108002699,1080026,Orange Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Orange sneakers.
+108002706,1080027,Orange Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Orange,4,Dark,5,Orange,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Orange pyjama set.
+108002710,1080027,Purple Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Purple sweater.
+108002717,1080027,Purple Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Purple trousers.
+108002718,1080027,Purple Dress,265,Dress,Garment Full body,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Purple dress.
+108002724,1080027,Purple Bag,60,Bag,Accessories,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Purple bag.
+108002726,1080027,Purple Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Purple sneakers.
+108002731,1080027,Purple Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Purple,4,Dark,5,Purple,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Purple pyjama set.
+108002738,1080027,Turquoise Sweater,252,Sweater,Garment Upper body,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Sweater S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sweater,Turquoise sweater.
+108002739,1080027,Turquoise Trousers,272,Trousers,Garment Lower body,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Trousers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Trousers,Turquoise trousers.
+108002741,1080027,Turquoise Dress,265,Dress,Garment Full body,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Dress S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Dress,Turquoise dress.
+108002749,1080027,Turquoise Bag,60,Bag,Accessories,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Bag S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Bag,Turquoise bag.
+108002757,1080027,Turquoise Sneakers,87,Sneakers,Shoes,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Sneakers S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Sneakers,Turquoise sneakers.
+108002763,1080027,Turquoise Pyjama set,73,Pyjama set,Nightwear,1010016,Solid,9,Turquoise,4,Dark,5,Turquoise,1676,Pyjama set S,A,Ladieswear,Ladieswear,16,Womens Everyday,1002,Pyjama set,Turquoise pyjama set.

@@ -1,0 +1,91 @@
+season,color,forecast_strength,search_term,method,raw_signal
+AW18,Black,63,black dress,momentum,0.915
+AW18,White,70,white dress,momentum,1.027
+AW18,Grey,68,grey shirt,momentum,0.991
+AW18,Beige,65,beige dress,momentum,0.95
+AW18,Blue,70,blue dress,momentum,1.025
+AW18,Brown,62,brown bag,momentum,0.903
+AW18,Pink,67,pink dress,momentum,0.978
+AW18,Red,64,red dress,momentum,0.94
+AW18,Green,61,green dress,momentum,0.891
+AW18,Yellow,70,yellow jacket,momentum,1.026
+AW18,Orange,62,orange shirt,momentum,0.909
+AW18,Purple,59,purple dress,momentum,0.868
+AW18,Turquoise,84,turquoise dress,momentum,1.222
+AW18,Bluish Green,67,teal dress,momentum,0.979
+AW18,Khaki green,100,khaki pants,momentum,1.458
+AW18,Yellowish Green,26,lime green shirt,momentum,0.383
+AW18,Metal,62,metallic dress,momentum,0.904
+AW18,Mole,53,taupe dress,momentum,0.772
+SS19,Black,88,black dress,momentum,1.188
+SS19,White,74,white dress,momentum,1.004
+SS19,Grey,88,grey shirt,momentum,1.185
+SS19,Beige,79,beige dress,momentum,1.061
+SS19,Blue,78,blue dress,momentum,1.059
+SS19,Brown,90,brown bag,momentum,1.222
+SS19,Pink,80,pink dress,momentum,1.08
+SS19,Red,91,red dress,momentum,1.226
+SS19,Green,83,green dress,momentum,1.121
+SS19,Yellow,78,yellow jacket,momentum,1.051
+SS19,Orange,82,orange shirt,momentum,1.103
+SS19,Purple,77,purple dress,momentum,1.037
+SS19,Turquoise,71,turquoise dress,momentum,0.958
+SS19,Bluish Green,81,teal dress,momentum,1.089
+SS19,Khaki green,77,khaki pants,momentum,1.045
+SS19,Yellowish Green,64,lime green shirt,momentum,0.867
+SS19,Metal,99,metallic dress,momentum,1.334
+SS19,Mole,100,taupe dress,momentum,1.351
+AW19,Black,63,black dress,momentum,0.885
+AW19,White,72,white dress,momentum,1.015
+AW19,Grey,64,grey shirt,momentum,0.91
+AW19,Beige,67,beige dress,momentum,0.951
+AW19,Blue,70,blue dress,momentum,0.985
+AW19,Brown,61,brown bag,momentum,0.869
+AW19,Pink,68,pink dress,momentum,0.967
+AW19,Red,64,red dress,momentum,0.902
+AW19,Green,67,green dress,momentum,0.947
+AW19,Yellow,76,yellow jacket,momentum,1.07
+AW19,Orange,66,orange shirt,momentum,0.939
+AW19,Purple,64,purple dress,momentum,0.903
+AW19,Turquoise,61,turquoise dress,momentum,0.867
+AW19,Bluish Green,67,teal dress,momentum,0.942
+AW19,Khaki green,60,khaki pants,momentum,0.842
+AW19,Yellowish Green,100,lime green shirt,momentum,1.414
+AW19,Metal,60,metallic dress,momentum,0.845
+AW19,Mole,35,taupe dress,momentum,0.499
+SS20,Black,80,black dress,momentum,1.219
+SS20,White,70,white dress,momentum,1.061
+SS20,Grey,74,grey shirt,momentum,1.132
+SS20,Beige,76,beige dress,momentum,1.159
+SS20,Blue,71,blue dress,momentum,1.082
+SS20,Brown,82,brown bag,momentum,1.249
+SS20,Pink,72,pink dress,momentum,1.091
+SS20,Red,76,red dress,momentum,1.151
+SS20,Green,78,green dress,momentum,1.184
+SS20,Yellow,65,yellow jacket,momentum,0.991
+SS20,Orange,77,orange shirt,momentum,1.169
+SS20,Purple,77,purple dress,momentum,1.174
+SS20,Turquoise,68,turquoise dress,momentum,1.041
+SS20,Bluish Green,77,teal dress,momentum,1.176
+SS20,Khaki green,65,khaki pants,momentum,0.984
+SS20,Yellowish Green,88,lime green shirt,momentum,1.345
+SS20,Metal,82,metallic dress,momentum,1.245
+SS20,Mole,100,taupe dress,momentum,1.521
+AW20,Black,78,black dress,momentum,0.793
+AW20,White,88,white dress,momentum,0.899
+AW20,Grey,76,grey shirt,momentum,0.777
+AW20,Beige,86,beige dress,momentum,0.879
+AW20,Blue,83,blue dress,momentum,0.849
+AW20,Brown,74,brown bag,momentum,0.757
+AW20,Pink,86,pink dress,momentum,0.883
+AW20,Red,76,red dress,momentum,0.779
+AW20,Green,84,green dress,momentum,0.86
+AW20,Yellow,85,yellow jacket,momentum,0.869
+AW20,Orange,87,orange shirt,momentum,0.888
+AW20,Purple,100,purple dress,momentum,1.021
+AW20,Turquoise,90,turquoise dress,momentum,0.92
+AW20,Bluish Green,80,teal dress,momentum,0.821
+AW20,Khaki green,66,khaki pants,momentum,0.675
+AW20,Yellowish Green,100,lime green shirt,momentum,1.02
+AW20,Metal,65,metallic dress,momentum,0.664
+AW20,Mole,85,taupe dress,momentum,0.868
