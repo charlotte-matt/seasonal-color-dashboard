@@ -8,7 +8,7 @@ An interactive dashboard that answers one question a fashion buyer actually care
 
 It puts real **H&M sales** (vertical) against **Google Trends search interest** (horizontal),
 season by season, so every color earns a verdict: **Validated** (searched & sold),
-**Overrated** (searched but flopped at full price), **Sleeper** (quiet but sold),
+**Overrated** (searched but flopped at full price), **Sleeper hit** (quiet but sold),
 **Niche** (quiet & modest), or **Core** (a neutral).
 
 The dashboard is a single self-contained page — plain SVG + vanilla JS, **no build step, no
