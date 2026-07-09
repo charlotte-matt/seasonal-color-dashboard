@@ -21,6 +21,28 @@ data has no buy/inventory). Whichever script you run **last** is what the dashbo
 
 ---
 
+## Where the search data comes from
+
+The horizontal **"Search interest"** axis is real **Google Trends** data, pulled via the
+unofficial `pytrends` library ([`fetch_trends.py`](fetch_trends.py)) — free, public search
+data, cached locally so re-runs don't re-hit Google.
+
+For every color it measures search interest across a **12-garment basket** (dress, top, shirt,
+sweater, jeans, pants, skirt, coat, jacket, heels, sneakers, bag) in the **US**, over the
+**6 months before each season** — a demand read *before* anything sold. The score is
+**momentum**: a color's interest in that lead-up window ÷ its own long-run average, so it
+captures *rising* interest rather than baseline popularity (which neutrals like black would
+otherwise dominate), rescaled per season so the top fashion color = 100. The dashboard's
+Category filter recomputes it from just that category's garments (e.g. Lower body → jeans,
+pants, skirt).
+
+> **Honest caveat:** this is a rough, free proxy — Google Trends is a sampled, self-normalized
+> index, not absolute search volume, and it turns out to be a *weak* predictor of full-price
+> selling (≈68%). A serious color-trend forecast would use professional data (WGSN, runway
+> tagging, Pantone), not public search.
+
+---
+
 ## Quick start
 
 ```bash
@@ -83,7 +105,7 @@ real Google Trends search interest. To use real data:
 
 ```bash
 pip install pytrends
-python3 fetch_trends.py                       # momentum (default), US, "<color> dress"
+python3 fetch_trends.py                       # momentum (default), US, 12-garment basket
 python3 fetch_trends.py --method level         # popularity, for A/B comparison
 python3 build_hm_data.py --data-dir data/hm    # rebuild with whichever forecast you fetched
 ```
