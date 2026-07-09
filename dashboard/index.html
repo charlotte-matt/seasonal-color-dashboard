@@ -60,7 +60,7 @@
   .kpi .k-val{font-size:28px;font-weight:680;margin:5px 0 2px;letter-spacing:-.02em}
   .kpi .k-sub{font-size:12px;color:var(--muted)}
   .kpi .k-sub.good{color:var(--good)} .kpi .k-sub.bad{color:var(--bad)}
-  .grid{display:grid;grid-template-columns:1.3fr 1fr;gap:18px;align-items:start}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:18px;align-items:start}
   .card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:18px 18px 14px;box-shadow:var(--shadow);margin-bottom:0}
   .card h3{font-size:14px;margin:0 0 3px;letter-spacing:-.01em}
   .card .desc{font-size:12.5px;color:var(--muted);margin:0 0 12px}
@@ -100,7 +100,7 @@
   .tag.sleeper{background:#eef1f7;color:#3a5a8c}
   .tag.niche{background:#f0efe9;color:var(--muted)}
   .tag.core{background:#f0efe9;color:#555}
-  .legend{display:flex;gap:16px;flex-wrap:wrap;font-size:12px;color:var(--muted);margin-top:8px}
+  .legend{display:flex;gap:4px 16px;flex-wrap:wrap;font-size:12px;color:var(--muted);margin-top:8px;line-height:1.3}
   .legend span{display:inline-flex;align-items:center;gap:6px}
   .legend .tag{font-size:10.5px}
   .dash{display:inline-block;width:18px;border-top:2px dashed #9aa4b8;vertical-align:middle}
@@ -114,6 +114,7 @@
   footer{margin-top:34px;color:var(--muted);font-size:12px;text-align:center}
   @media(max-width:1120px){.kpis{grid-template-columns:repeat(3,1fr)}}
   @media(max-width:880px){.grid{grid-template-columns:1fr}}
+  @media(min-width:881px){#quadrant svg{max-width:470px;margin:0 auto}}
   @media(max-width:820px){.kpis{grid-template-columns:repeat(2,1fr)}}
 </style>
 </head>
@@ -531,7 +532,19 @@ function renderBump(){
   const byHype=cols.slice().sort((a,b)=>b.forecast-a.forecast);
   const bySales=cols.slice().sort((a,b)=>b.fpst-a.fpst);
   const rH={},rS={}; byHype.forEach((c,i)=>rH[c.color]=i); bySales.forEach((c,i)=>rS[c.color]=i);
-  const n=cols.length, W=520, H=Math.max(240,44+n*24), m={t:36,b:12}, xL=118,xR=W-118;
+  const n=cols.length, W=520, m={t:36,b:12}, xL=118,xR=W-118;
+  // Match the predicted-vs-actual card beside it: spread the rows to FILL that height rather
+  // than leaving blank space. Only when the two cards sit side-by-side (2-column layout).
+  let H=Math.max(240,44+n*24);
+  const scatterCard=document.getElementById('quadrant')?.closest('.card'), card=host.closest('.card'), w=host.clientWidth;
+  if(scatterCard&&card&&w>0){
+    const sr=scatterCard.getBoundingClientRect(), cr=card.getBoundingClientRect();
+    if(Math.abs(sr.top-cr.top)<8){
+      const overhead=cr.height-host.getBoundingClientRect().height;   // h3 + card padding
+      const filled=W*(sr.height-overhead)/w;                          // viewBox height to fill it
+      if(filled>H) H=filled;
+    }
+  }
   const rowH=(H-m.t-m.b)/(n-1||1), yy=r=>m.t+r*rowH;
   let s=`<svg viewBox="0 0 ${W} ${H}" role="img">`;
   s+=`<text class="axis-txt" x="${xL}" y="16" text-anchor="middle" style="font-weight:700">Interest rank</text>`;
@@ -639,6 +652,8 @@ function render(){
   renderHeatmap(); renderReco(); wireInfo();
 }
 render();
+// the bump chart's height is measured from the scatter card, so re-fit it after a resize
+let _rz; addEventListener('resize',()=>{clearTimeout(_rz);_rz=setTimeout(renderBump,150);});
 </script>
 </body>
 </html>
